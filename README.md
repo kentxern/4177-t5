@@ -6,7 +6,7 @@
 * *Last Modification Date*: 5 July 2023
 * *Lab Repository URL*: <https://git.cs.dal.ca/chew/4177-individual/>
 * *Group Repository URL*: <https://git.cs.dal.ca/chew/4177-group-22/>
-* *Netlify Hosted URL*: <>
+* *Render Hosted URL*: <https://four177-t5-kent-chew.onrender.com/>
 
 ## Authors
 
@@ -20,9 +20,15 @@
 4. Visit the application on your local browser via <http://localhost:3000/>
 5. Alternatively, use may use Postman to access the back-end API
 
+## API commands
+- GET: https://four177-t5-kent-chew.onrender.com/users - returns all users
+- GET: https://four177-t5-kent-chew.onrender.com/user/:id - returns user with specified ID
+- POST: https://four177-t5-kent-chew.onrender.com/add - adds user with specified body parameters
+- PUT: https://four177-t5-kent-chew.onrender.com/update/:id - updates user with specified body parameters
+
 ## Deployment
 
-Application deployed on Render. Access using link provided above.
+Application deployed on Render. Please access using link provided above. Reach out to kentxern@dal.ca if you encounter any issues.
 
 ## Built With
 
