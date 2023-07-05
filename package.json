@@ -1,0 +1,18 @@
+{
+  "name": "kent-t5",
+  "version": "1.0.0",
+  "description": "Back-End API for CSCI4177 Tutorial 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.cs.dal.ca/chew/4177-individual"
+  },
+  "author": "Kent Xern Chew",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
